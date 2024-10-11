@@ -7,7 +7,7 @@ Memer is a simple yet powerful Discord bot that brings joy and entertainment thr
 - `$programming_meme`: Perfect for developers! Get memes specifically about programming to lighten your workday.
 
 ## 🤖 How to Add Memer to Your Server
-1. Invite the bot using [this link](https://discord.com/oauth2/authorize?client_id=1294259232928960512&permissions=2048&integration_type=0&scope=bot)(Live on 11.10.2024)
+1. Invite the bot using [this link](https://discord.com/oauth2/authorize?client_id=1294259232928960512&permissions=2048&integration_type=0&scope=bot) (Live on 11.10.2024)
 2. Type one of the commands ($random_meme or $programming_meme) in any channel.
 3. Enjoy instant meme magic!
 
